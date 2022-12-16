@@ -16,6 +16,7 @@ In particular:
 
 We can eventually try to re-implement some matlab code on specific wavelet families: 
 * https://wavelet-tour.github.io/softwares/ 
+* [Here](http://www.laurent-duval.eu/siva-wits-where-is-the-starlet.html#bandlet) a collection of a large variety of geometric multiscale transforms 
 
 The notion of wavelets and multiscale separation is also used to build neural networks (i.e. Scattering Networks) 
 * See [Kymatio](https://www.kymat.io/) for some implementations 
