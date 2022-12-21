@@ -14,6 +14,8 @@ In particular:
 * [Fourier & Wavelets](https://github.com/gpeyre/numerical-tours/blob/master/python/introduction_4_fourier_wavelets.ipynb) 
 * [Image Denoising with Wavelets](https://github.com/gpeyre/numerical-tours/blob/master/python/denoisingwav_2_wavelet_2d.ipynb)
 
+__[BONUS]__
+
 We can eventually try to re-implement some matlab code on specific wavelet families: 
 * https://wavelet-tour.github.io/softwares/ 
 * [Here](http://www.laurent-duval.eu/siva-wits-where-is-the-starlet.html#bandlet) a collection of a large variety of geometric multiscale transforms 
