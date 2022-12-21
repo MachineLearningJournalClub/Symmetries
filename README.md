@@ -15,6 +15,7 @@ In particular:
 
 * [Fourier & Wavelets](https://github.com/gpeyre/numerical-tours/blob/master/python/introduction_4_fourier_wavelets.ipynb) 
 * [Image Denoising with Wavelets](https://github.com/gpeyre/numerical-tours/blob/master/python/denoisingwav_2_wavelet_2d.ipynb)
+* [Comparison Fourier & Wavelets](https://www.samulski.nl/files/wavelets/wavelets.pdf)
 
 __[BONUS]__
 
