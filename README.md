@@ -5,6 +5,8 @@ A couple of exercises on Geometric Deep Learning
 * [Geometric Deep Learning Protobook](https://arxiv.org/abs/2104.13478)
 * [A Wavelet Tour of Signal Processing](https://wavelet-tour.github.io/)
 
+
+-----
 ## 1st Tutorial: Multiscale Representations and Wavelets
 
 Taking inspiration from [Gabriel Peyre's Numerical Tours](https://github.com/gpeyre/numerical-tours)
