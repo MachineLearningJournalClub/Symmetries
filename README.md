@@ -29,7 +29,7 @@ The notion of wavelets and multiscale separation is also used to build neural ne
 
 
 -----
-## 2nd Tutorial: Graphs and Manifolds
+## 2nd & 3rd Tutorials: Graphs and Manifolds
 
 * Introduction to Graphs and applications w/ [NetworkX](https://networkx.org/)
 * Introduction to Manifolds and applications w/ [Geomstats](https://geomstats.github.io/)
