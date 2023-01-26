@@ -26,3 +26,10 @@ We can eventually try to re-implement some matlab code on specific wavelet famil
 The notion of wavelets and multiscale separation is also used to build neural networks (i.e. Scattering Networks) 
 * See [Kymatio](https://www.kymat.io/) for some implementations 
 * In general the work of Stephane Mallat's Lab both on [Scholar](https://scholar.google.fr/citations?hl=fr&user=g_YTmSgAAAAJ&view_op=list_works&sortby=pubdate) and Github (scattered among lab members, for example see [this](https://github.com/j-zarka/separation_concentration_deepnets))
+
+
+-----
+## 2nd Tutorial: Graphs and Manifolds
+
+* Introduction to Graphs and applications w/ [NetworkX](https://networkx.org/)
+* Introduction to Manifolds and applications w/ [Geomstats](https://geomstats.github.io/)
