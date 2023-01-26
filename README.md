@@ -1,5 +1,5 @@
 # Symmetries
-A couple of exercises on Geometric Deep Learning
+Introduction to Geometric Deep Learning
 
 ### References 
 * [Geometric Deep Learning Protobook](https://arxiv.org/abs/2104.13478)
