@@ -33,8 +33,39 @@ The notion of wavelets and multiscale separation is also used to build neural ne
 
 * Introduction to Graphs and applications w/ [NetworkX](https://networkx.org/)
 
+This content is largely based on
+
+* ["Complessita' nei sistemi sociali"](https://github.com/lordgrilo/complexity-book) course at UniTo
+* [NetworkX Gallery Examples](https://networkx.org/documentation/stable/auto_examples/index.html)
+
+More in detail: 
+
+* Create an empty graph, adding nodes and edges and drawing
+* Graph properties: Eccentricity, Radius, Diameter, Center, Periphery, Density, Average Shortest Path
+* Centrality Measures: Degree, Betweenness, Closeness, PageRank
+* Random Walks & PageRank
+* Clustering & Community Detection
+* Beam Search 
+* Disparity Filtering 
+
 
 ----
 ## 3rd Tutorial: Manifolds
 
 * Introduction to Manifolds and applications w/ [Geomstats](https://geomstats.github.io/)
+
+* To get an idea of the motivations behind learning about and on manifolds, please take a look at [this](https://github.com/geomstats/geomstats/blob/master/notebooks/00_foundations__introduction_to_geomstats.ipynb) awesome notebook from Adele Myers and collaborators :)
+* Also, for some more definitions, there is [this](https://github.com/geomstats/geomstats/blob/master/notebooks/01_foundations__manifolds.ipynb) notebook
+
+More in detail:
+
+* Three different & intuitive definitions of a Manifold 
+* An Example: the hypersphere
+* Manifolds as a Class? w/ Geomstats
+* The Parent Class: Manifold
+* OpenSet and LevelSet
+* VectorSpace
+* ProductManifold
+* What is a connection 
+* 1st Example: EMG data and SemiPositiveDefinite Matrices 
+* 2nd Example: Zachary's Karate Club and Hyperbolic Embeddings
