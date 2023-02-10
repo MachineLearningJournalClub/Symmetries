@@ -69,3 +69,12 @@ More in detail:
 * What is a connection 
 * 1st Example: EMG data and SemiPositiveDefinite Matrices 
 * 2nd Example: Zachary's Karate Club and Hyperbolic Embeddings
+
+
+-----
+
+# Projects & Ideas
+
+* Explore Equivariance for Reinforcement Learning Agents --> e.g. [Equivariant MuZero](https://arxiv.org/abs/2302.04798)
+* Role of Graph Neural Networks in Mathematical Reasoning --> e.g. [Neural Algorithmic Reasoning](https://www.sciencedirect.com/science/article/pii/S2666389921000994) and compete in [ARC Challenge](https://lab42.global/arc/)
+* 
