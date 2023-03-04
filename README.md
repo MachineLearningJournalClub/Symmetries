@@ -81,10 +81,3 @@ More in detail:
 * [Core knowledge](https://lab42.global/arc/core-knowledge/) a short story
 * Previous Edition on [Kaggle](https://www.kaggle.com/c/abstraction-and-reasoning-challenge)
 * [Some notebooks](https://www.kaggle.com/competitions/abstraction-and-reasoning-challenge/code?competitionId=18329&sortBy=scoreAscending) with solutions
-
-**Ideas**
-
-* Role of Graph Neural Networks in Mathematical Reasoning --> e.g. [Neural Algorithmic Reasoning](https://www.sciencedirect.com/science/article/pii/S2666389921000994) 
-* [B.Ibarz et al , A generalist neural algorithmic learner](https://openreview.net/forum?id=FebadKZf6Gd)
-* Explore Equivariance for Reinforcement Learning Agents --> e.g. [Equivariant MuZero](https://arxiv.org/abs/2302.04798)
-
