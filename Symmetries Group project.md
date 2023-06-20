@@ -11,3 +11,7 @@ al mondo per lo studio delle strutture delle proteine: [Top-down design of prote
 
 ## Collection of *methodology* papers
 
+Some papers on modeling in Topological Deep Learning (in our case we need something like that as there's not a specific geometric structure in point clouds of this kind), i.e. permutation invariant methods: 
+
+* [Architectures of Topological Deep Learning: A Survey on Topological Neural Networks, Papillon et al. 2023](https://arxiv.org/abs/2304.10031)
+
