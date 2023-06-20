@@ -15,3 +15,7 @@ Some papers on modeling in Topological Deep Learning (in our case we need someth
 
 * [Architectures of Topological Deep Learning: A Survey on Topological Neural Networks, Papillon et al. 2023](https://arxiv.org/abs/2304.10031)
 
+## Libraries and Software 
+
+* [Torch Protein](https://torchprotein.ai/) (based on PyTorch) 
+
