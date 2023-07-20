@@ -19,3 +19,4 @@ Some papers on modeling in Topological Deep Learning (in our case we need someth
 
 * [Torch Protein](https://torchprotein.ai/) (based on PyTorch) 
 
+# Volevamo sfruttare un approccio contrastivo nella generazione della sequenza per sfruttare il fatto di generare loops da sx verso dx e viceversa da dx verso sx
